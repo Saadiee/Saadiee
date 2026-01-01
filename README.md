@@ -47,4 +47,6 @@ Working toward roles involving:
 ## 🔗 Links
 - GitHub: you’re here  
 - LinkedIn: [@srm2k](https://www.linkedin.com/in/srm2k)
+- TryHackMe: [@saadirman](https://tryhackme.com/p/saadirman)
+- BootDev: [@Saad](https://www.boot.dev/u/classicspiritual60)
   
