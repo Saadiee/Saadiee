@@ -4,7 +4,7 @@ Aspiring **Cybersecurity Engineer** with a strong backend and systems foundation
 I focus on understanding how systems fail, how attacks surface in data, and how to detect them reliably.
 
 ## 🎯 Focus
-- Cybersecurity engineering (blue-team oriented)
+- Cybersecurity engineering (purple-team oriented)
 - Backend services and APIs
 - Security monitoring, logs, and event analysis
 - Building tools that prioritize correctness and clarity
@@ -15,7 +15,8 @@ I focus on understanding how systems fail, how attacks surface in data, and how 
 - JavaScript / TypeScript  
 - SQL  
 - C (learning)  
-- Rust (learning) 🦀  
+- Rust (learning) 🦀
+- Go (learning) 
 
 **Backend & Systems**
 - RESTful APIs  
