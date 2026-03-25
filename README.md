@@ -4,7 +4,7 @@
 I focus on how systems fail, how attacks surface, and how to detect them reliably.  
 When I'm not studying for certs or doing labs, I build security tooling.
 
----
+
 
 ## 🚀 What I've Built
 
@@ -13,7 +13,7 @@ Built for freelance pentesters and small security firms who need professional,
 structured reports without the manual formatting overhead.  
 Stack: Next.js · TypeScript · Drizzle ORM · Neon Postgres · Auth.js v5 · Polar.sh
 
----
+
 
 ## 🎯 Focus
 
@@ -22,7 +22,7 @@ Stack: Next.js · TypeScript · Drizzle ORM · Neon Postgres · Auth.js v5 · Po
 - **Backend Systems** — APIs, auth, observability, correctness over cleverness
 - **Security Tooling** — building things that make security work less painful
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -31,7 +31,7 @@ Stack: Next.js · TypeScript · Drizzle ORM · Neon Postgres · Auth.js v5 · Po
 **Cloud:** Azure (active study) · IAM concepts · Cloud networking fundamentals  
 **Security:** CompTIA Security+ ✅ · Web security · Blue-team / detection mindset · TryHackMe top 3%
 
----
+
 
 ## 📂 Repositories
 
