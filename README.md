@@ -1,42 +1,56 @@
-# Saad Ur Rehman
+# Saad Ur Rehman 👋
 
-**Cybersecurity Engineer in progress** | Cloud Security (Azure) | Builder  
-I focus on how systems fail, how attacks surface, and how to detect them reliably.  
-When I'm not studying for certs or doing labs, I build security tooling.
-
-## 🚀 What I've Built
-
-**[PenReport](https://penreport.app)** — SaaS penetration testing report generator  
-Built for freelance pentesters and small security firms who need professional,
-structured reports without the manual formatting overhead.  
-Stack: Next.js · TypeScript · Drizzle ORM · Neon Postgres · Auth.js v5 · Polar.sh
+**Cybersecurity Engineer** with a strong backend and cloud security foundation 🛡️  
+I focus on understanding how systems fail, how attacks surface in data, and how to detect them reliably.
 
 ## 🎯 Focus
-
-- **Cloud Security** — Azure infrastructure, IAM, and security posture (AZ-104 → AZ-500 path)
-- **SOC / Detection Engineering** — log analysis, alert triage, incident thinking
-- **Backend Systems** — APIs, auth, observability, correctness over cleverness
-- **Security Tooling** — building things that make security work less painful
+- Cloud security engineering (Azure)
+- Backend services and APIs
+- Security monitoring, logs, and event analysis
+- Building tools that prioritize correctness and clarity
 
 ## 🧰 Tech Stack
+**Languages**
+- Python 🐍  
+- JavaScript / TypeScript  
+- SQL  
+- Bash  
 
-**Languages:** Python · TypeScript · JavaScript · SQL · Bash  
-**Backend:** REST APIs · Auth/AuthZ · PostgreSQL · Linux · Basic observability  
-**Cloud:** Azure (active study) · IAM concepts · Cloud networking fundamentals  
-**Security:** CompTIA Security+ ✅ · Web security · Blue-team / detection mindset · TryHackMe top 3%
+**Backend & Systems**
+- RESTful APIs  
+- Authentication / authorization concepts  
+- Linux & networking fundamentals  
+- Logging and basic observability  
+
+**Cloud & Security**
+- Microsoft Azure (AZ-104 → AZ-500 path) ☁️  
+- CompTIA Security+ ✅  
+- Web security fundamentals  
+- Blue-team concepts  
+- Detection and incident-thinking mindset  
+
+## 🚀 Projects
+**[PenReport](https://penreport.app)** — SaaS penetration testing report generator  
+Built for freelance pentesters and small security firms.  
+Stack: Next.js · TypeScript · Drizzle ORM · Neon Postgres · Auth.js v5 · Polar.sh
 
 ## 📂 Repositories
-
-Mostly:
-- Security experiments and lab writeups
+You'll mostly find:
+- Security-focused experiments  
 - Backend projects with a systems mindset  
-- Tools built to understand **how things work and how they break**
+- Learning repos with incremental, practical improvements  
 
-Polish is secondary. Correctness and understanding come first.
+Projects here are built to understand **how things work and how they break**, not to chase polish.
+
+## 🧭 Direction
+Working toward roles involving:
+- Cloud security engineering (Azure)
+- Security monitoring and detection  
+- Backend systems that support security tooling  
 
 ## 🔗 Links
-
+- GitHub: you're here  
 - LinkedIn: [@srm2k](https://www.linkedin.com/in/srm2k)
 - TryHackMe: [@saadirman](https://tryhackme.com/p/saadirman)
-- Boot.dev: [@Saad](https://www.boot.dev/u/classicspiritual60)
+- BootDev: [@Saad](https://www.boot.dev/u/classicspiritual60)
 - Live product: [penreport.app](https://penreport.app)
