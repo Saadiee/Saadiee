@@ -12,7 +12,9 @@ I focus on understanding how systems fail, how attacks surface in data, and how 
 ## 🧰 Tech Stack
 **Languages**
 - Python 🐍  
-- JavaScript / TypeScript  
+- JavaScript / TypeScript
+- C
+- GO (learning)  
 - SQL  
 - Bash  
 
